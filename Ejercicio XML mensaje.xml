@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mensaje>
+    <remitente>
+        <nombre>Miguel Angel Jimenez</nombre>
+        <email>miguelaljim12@gmail.com</email>
+    </remitente>
+    <destinatario>
+        <nombre>Paco Garcia</nombre>
+        <email>paquitogarcia00@gmail.com</email>
+    </destinatario>
+    <asunto>Pedido de marisco fresco</asunto>
+    <texto>
+        <parrafo>Buenos dias Paco. El otro dia te comentaba que no me llegarian almejas frescas
+            hasta el mes que viene, al menos eso pensaba yo.
+            Al final me ha llegado un pedido inesperado hoy y te aviso porque te quedaste muy
+            apenado por no tener marisco para tu paella,
+            pasate cuando quieras a comprar a partir de manana.</parrafo>
+    </texto>
+</mensaje>
